@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2012
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:14+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/"
+"language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:9
+msgid "antiX Root Persistence Auto-Save Configuration"
+msgstr "Auto-Save configuratie voor antiX Root persistentie"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:14
+msgid "Automatic"
+msgstr "Automatisch"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:15
+msgid "Semi-Automatic"
+msgstr "Semi-automatisch"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:16
+msgid "Manual"
+msgstr "Handleiding"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:19
+msgid "Configure root persistence saves to run either:"
+msgstr "Stel de opgeslagen root-persistentie in om uit te voeren:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:21
+msgid "at shutdown/reboot, no asking"
+msgstr "niet vragen bij afsluiten/herstarten"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:22
+msgid "ask at shutdown/reboot"
+msgstr "vragen bij afsluiten/herstarten"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:23
+msgid "you snooze, you lose"
+msgstr "Waakzaam zijn, is de boodschap"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:25
+msgid ""
+"This program should be called with the %s option in a startup script to "
+"ensure a config file is created."
+msgstr ""
+"Dit programma dient te worden opgeroepen met de %s optie in een "
+"opstartscript, zodat er een configuratiebestand voor wordt aangemaakt."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:27
+msgid ""
+"It should be called with the %s option in shutdown scripts so your changes "
+"can be saved before shutting down."
+msgstr ""
+"Het dient te worden opgeroepen met de %s optie in het afsluit-script, zodat "
+"uw wijzigingen bij het afsluiten ook zijn opgeslagen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:35
+msgid "%s specific options"
+msgstr "%s specifieke opties"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:36
+msgid "Create a %s file if one is missing."
+msgstr "Maak een %s bestand aan, als er een ontbreekt."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:37
+msgid "Run persist-save as directed by %s file."
+msgstr "Persist-save uitvoeren zoals is aangegeven in het %s bestand."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:38
+msgid "Run %s if %s succeeded."
+msgstr "%s uitvoeren indien %s geslaagd is."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:39
+msgid "If %s fails prompt user before running %s."
+msgstr "Indien %s mislukt, gebruiker waarschuwen voor het uitvoeren van %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:40
+msgid "implies %s"
+msgstr "impliceert %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:42
+msgid "Config file is located at: %s"
+msgstr "Configuratiebestand is te vinden in: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:75
+msgid "Current mode is: %s"
+msgstr "Huidige modus is: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:77
+msgid "There is no current auto-save mode.  The default is: %s."
+msgstr "Er is momenteel geen auto-save modus. De standaard is: %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:87
+msgid "save on shutdown/reboot automatically.  No asking."
+msgstr "Automatisch bewaren bij afsluiten/herstarten. Niet vooraf vragen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:88
+msgid "ask to save on shutdown/reboot."
+msgstr "vragen om te bewaren bij het afsluiten/herstarten."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:89
+msgid "only save changes manually (you snooze, you lose)."
+msgstr "de veranderingen alleen handmatig opslaan (wees waakzaam!)."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:99
+msgid "Auto-save mode set to %s in %s."
+msgstr "Auto-save modus is in %s ingesteld op %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:105
+msgid "It looks like root persistence was just enabled."
+msgstr "het blijkt dat root-persistentie zojuist is ingesteld."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:106
+msgid "Please set the save-mode for root persistence."
+msgstr "Stel a.u.b. de save-modus in voor root-pesistentie."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:107
+msgid "You will only have to do this once."
+msgstr "U hoeft dit slechts eenmalig uit te voeren."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:109
+msgid "You can change your choice later with %s."
+msgstr "U kunt uw keuze later aanpassen met %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:161
+msgid "CONFIRM"
+msgstr "BEVESTIG"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:162
+msgid "There was an error saving your changes."
+msgstr "Er trad een fout op bij het bewaren van uw aanpassingen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:164
+msgid "Do you still want to %s?"
+msgstr "Wilt u nog steeds %s"

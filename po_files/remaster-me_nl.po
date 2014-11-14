@@ -1,0 +1,221 @@
+#
+# Translators:
+# anticapitalista <antiX@operamail.com>, 2013
+# Eadwine Rose, 2014
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+# ko <ko.bros@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:27+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Dutch (http://www.transifex.com/projects/p/antix-development/"
+"language/nl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:53+0000\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:23
+msgid ""
+"Create a new compressed file system saving all of the changes you have made "
+"to the system."
+msgstr ""
+"Een nieuw gecomprimeerd bestandssysteem aanmaken, waarin alle wijzigingen "
+"worden bewaard die u in het systeem hebt aangebracht."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:24
+msgid "Optionally save changes in your home directory."
+msgstr "Eventueel de wijzigingen bewaren in uw ' home-directory'."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:30
+msgid "Extra options for"
+msgstr "Extra opties voor"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:31
+msgid "Make a smaller linuxfs.new.  NOT deleted when done."
+msgstr ""
+"Een kleinere linuxfs.new. aanmaken dat NIET gewist wordt na voltooiing."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:32
+msgid "Use %s instead of prompting user for title."
+msgstr "Gebruik %s in plaats van de gebruiker naar de titel te vragen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:33
+msgid "Do not alter the %s file."
+msgstr "Verander het %s bestand niet."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:34
+msgid "Make a general-purpose remaster."
+msgstr "Een remaster voor algemeen gebruik maken."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:35
+msgid "Make a personalized remaster."
+msgstr "Een gepersonaliseerde remaster maken."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:36
+msgid "Save files under the %s directory."
+msgstr "Bestanden in de %s directory opslaan."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:37
+msgid "Don't save files under the %s directory."
+msgstr "De bestanden niet in de %s directory opslaan."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:72
+msgid "Do you want to save files under %s in the new remaster?"
+msgstr "Wilt u de bestanden bewaren in %s van de nieuwe remaster?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:80
+msgid "Checking for existing files and"
+msgstr "Onderzoeken op aanwezige bestanden en"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:81
+msgid "Checking if there is enough room ..."
+msgstr "Nagaan of er genoeg ruimte is ..."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:132
+msgid "Have: %s megs available.  Need: %s."
+msgstr "Aanwezig: %s megs. Benodigd: %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:136
+msgid "Leftover files found"
+msgstr "Rest-bestanden gevonden"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:138
+msgid "The following file(s) already exist"
+msgstr "De volgende bestanden bestaan reeds"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:139
+msgid "in the %s directory:"
+msgstr "in de %s directory:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:143
+msgid "They may be left over from a previous remastering."
+msgstr "Zij kunnen zijn overgebleven van een voorgaande remaster."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:144
+msgid "Do you want to fix this problem now?"
+msgstr "Wilt u het probleem nu oplossen?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:145
+msgid "(the alternative is to quit now)"
+msgstr "(het alternatief is om nu op te houden)"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:159
+msgid "Ready to create a new linuxfs file"
+msgstr "Gereed om nieuw linuxfs bestand aan te maken"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:163
+msgid "Shall we begin?"
+msgstr "Zullen we beginnen?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:165
+msgid "General"
+msgstr "Algemeen"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:166
+msgid "Personal"
+msgstr "Persoonlijk"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:171
+msgid "%s uses your current language settings."
+msgstr "%s gebruikt uw huidige taalinstellingen."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:172
+msgid "%s does not."
+msgstr "%s doet dat niet."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:186
+msgid "Remaster Version Identification"
+msgstr "Remaster Versie Indentificatie"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:188
+msgid "Please enter an (optional) title for this remaster"
+msgstr "Voer a.u.b een (eventuele) naam in voor deze remaster."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:215
+msgid "Remaster in progress"
+msgstr "Bezig met remaster"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:217
+msgid "please be patient"
+msgstr "Geduld a.u.b"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:218
+msgid "(even after it says it is 100% done)"
+msgstr "(zelfs indien gezegd wordt dat het 100% voltooid is)"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:223
+msgid "antiX Remaster in Progress"
+msgstr "Bezig met antiX Remaster"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:267
+msgid "Remastering -- DO NOT CLOSE"
+msgstr "Bezig met Remaster --NIET AFSLUITEN"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:282
+msgid "Remaster in Progress"
+msgstr "Bezig met Remaster"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:283
+msgid "Do you REALLY want to stop midway?"
+msgstr "Wilt u WERKELIJK halverwege stoppen?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:309
+msgid "Error"
+msgstr "Fout"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:314
+msgid "Do you want to save the incomplete file?"
+msgstr "Wilt u het sla het onvolledige bestand?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:321
+msgid "Remastering Terminated Early"
+msgstr "Wilt u het remasteren eerder beeindigen?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:326
+msgid "Remastering Failed"
+msgstr "Remaster mislukt"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:328
+msgid "New linuxfs file was not created!"
+msgstr "Een nieuw linuxfs is niet aangemaakt!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:332
+msgid "Could not mount new file as %s!"
+msgstr "Kon hiet nieuwe bestand niet aankoppelen als %s!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:344
+msgid "Created new compressed filesystem file:"
+msgstr "Nieuw gecomprimeerd bestandssysteem aangemaakt:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:347
+msgid "size: %s Meg"
+msgstr "omvang: %s Meg"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:349
+msgid "The new file should be used automatically the next time you boot."
+msgstr ""
+"Het nieuwe bestand zou automatisch moeten worden gebruikt wanneer u een "
+"volgende keer opstart."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:351
+msgid "If there is a problem with the new system:"
+msgstr "Indien er een probleem is met het nieuwe systeem:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:352
+msgid "Use the %s  boot option to return to the current system."
+msgstr "Gebruik de %s start optie om terug te keren naar het huidige systeem."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:354
+msgid "You should now create a rootfs.new file."
+msgstr "U moet nu een rootfs.new file creëren."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:355
+msgid "Use the Set up live persistence application."
+msgstr "Gebruik de 'Set up live persistence' applicatie"

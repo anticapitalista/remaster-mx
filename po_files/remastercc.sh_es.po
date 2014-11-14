@@ -1,0 +1,32 @@
+#
+# Translators:
+# Roberto Saravia <jratlsv2@racsa.co.cr>, 2012
+# Roberto Saravia <jratlsv2@racsa.co.cr>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-04 18:00+0200\n"
+"PO-Revision-Date: 2014-11-14 18:18+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-"
+"development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:52+0000\n"
+
+#: remastercc.sh:26
+msgid "Set up live persistence"
+msgstr "Configurar live con persistencia"
+
+#: remastercc.sh:35
+msgid "Save root persistence"
+msgstr "Guardar root con persistencia"
+
+#: remastercc.sh:44
+msgid "Remaster"
+msgstr "Remasterizar"

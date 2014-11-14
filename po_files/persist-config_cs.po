@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:13+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Czech (http://www.transifex.com/projects/p/antix-development/"
+"language/cs/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:9
+msgid "antiX Root Persistence Auto-Save Configuration"
+msgstr "Nastavení automatického uložení přetrvávajícího root antiX"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:14
+msgid "Automatic"
+msgstr "Automaticky"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:15
+msgid "Semi-Automatic"
+msgstr "Poloautomaticky"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:16
+msgid "Manual"
+msgstr "Ručně"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:19
+msgid "Configure root persistence saves to run either:"
+msgstr "Nastavit uložené přetrvávající root ke spuštění buď:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:21
+msgid "at shutdown/reboot, no asking"
+msgstr "při vypnutí/restartu, bez dotazů"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:22
+msgid "ask at shutdown/reboot"
+msgstr "zeptat se při vypnutí/restartu"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:23
+msgid "you snooze, you lose"
+msgstr "vypnete a ztratíte"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:25
+msgid ""
+"This program should be called with the %s option in a startup script to "
+"ensure a config file is created."
+msgstr ""
+"Tento program by měl být volán s možností %s ve spouštěcím skriptu pro "
+"zajištění vytvoření konfiguračního souboru."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:27
+msgid ""
+"It should be called with the %s option in shutdown scripts so your changes "
+"can be saved before shutting down."
+msgstr ""
+"Měl by být volán s možností %s v ukončovacích skriptech, aby Vaše změny byly "
+"uloženy před vypnutím."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:35
+msgid "%s specific options"
+msgstr "specifické možnosti %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:36
+msgid "Create a %s file if one is missing."
+msgstr "Vytvořit soubor %s, pokud chybí."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:37
+msgid "Run persist-save as directed by %s file."
+msgstr "Spustit přetrvávající uložení tak, jak je nařízeno v souboru %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:38
+msgid "Run %s if %s succeeded."
+msgstr "Spustit %, pokud %s bylo úspěšné."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:39
+msgid "If %s fails prompt user before running %s."
+msgstr "Pokud %s selže, zeptat se uživatele před spuštěním %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:40
+msgid "implies %s"
+msgstr "vyplývá %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:42
+msgid "Config file is located at: %s"
+msgstr "Konfigurační soubor je umístěn v: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:75
+msgid "Current mode is: %s"
+msgstr "Současný režim je: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:77
+msgid "There is no current auto-save mode.  The default is: %s."
+msgstr "V současnosti není žádný režim auto ukládání. Výchozí je: %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:87
+msgid "save on shutdown/reboot automatically.  No asking."
+msgstr "uložit při vypnutí/restartu automaticky. Bez výzvy."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:88
+msgid "ask to save on shutdown/reboot."
+msgstr "zeptat se na uložení při vypnutí/restatu."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:89
+msgid "only save changes manually (you snooze, you lose)."
+msgstr "změny ukládat pouze ručně (vypnete a ztratíte)."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:99
+msgid "Auto-save mode set to %s in %s."
+msgstr "Režim automatického ukládání nastaven %s ve %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:105
+msgid "It looks like root persistence was just enabled."
+msgstr "Vypadá to, že přetrvávání root bylo právě zapnuto."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:106
+msgid "Please set the save-mode for root persistence."
+msgstr "Nastavte, prosím, režim ukládání pro přetrvávání root."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:107
+msgid "You will only have to do this once."
+msgstr "Toto budete muset provést pouze jednou."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:109
+msgid "You can change your choice later with %s."
+msgstr "Vaši vilbu můžete změnit později pomocí %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:161
+msgid "CONFIRM"
+msgstr "POTVRDIT"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:162
+msgid "There was an error saving your changes."
+msgstr "Při ukládání Vašich změn se vyskytla chyba."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-config:164
+msgid "Do you still want to %s?"
+msgstr "Chcete stále %s?"

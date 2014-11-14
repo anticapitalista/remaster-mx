@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:13+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Catalan (http://www.transifex.com/projects/p/antix-"
+"development/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:14
+msgid "\\n    Eject LiveCD/DVD via a simple GUI if %s is enabled."
+msgstr "\\n S'expulsa el CD/DVD autònom amb una IGU senzilla si s'activa %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:16
+msgid "Automatic toram Eject"
+msgstr "Expulsió automàtica ToRAM"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:24
+msgid "no BOOT_DEV given!"
+msgstr "no s'ha especificat el BOOT_DEV!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:29
+msgid "boot device: %s is not removable."
+msgstr "Dispositiu d'arrencada: %s no és removible."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:33
+msgid "boot device: %s is still mounted!"
+msgstr "Dispositiu d'arrencada: %s encara està muntat!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:40
+msgid "The %s boot option succeeded."
+msgstr "L'opció d'arrencada %s ha tingut èxit."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:41
+msgid "The boot media is no longer needed."
+msgstr "El dispositiu d'arrencada ja no és necessari."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:43
+msgid "Do you want the LiveCD/DVD ejected?"
+msgstr "Voleu expulsar el CD/DVD autònom?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:44
+msgid "did not eject as per user request."
+msgstr "No s'ha expulsat a petició de l'usuari."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:46
+msgid "Could not eject %s"
+msgstr "No s'ha pogut expulsar %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:51
+msgid "Feel free to remove the CD or DVD."
+msgstr "Ja podeu treure el CD o DVD."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:53
+msgid "Do you want the drive closed now?"
+msgstr "Voleu tancar ara la unitat?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:54
+msgid "did not closing drive as per user request."
+msgstr "No es tanca la unitat a petició de l'usuari."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/toram-eject:56
+msgid "Could not close %s"
+msgstr "No es pot tancar %s"

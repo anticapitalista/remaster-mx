@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Michel Massoud <michel_massoud@hotmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:11+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/antix-development/"
+"language/ar/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:13
+msgid "antiX Save Persistent Root"
+msgstr "antiX التثبيت المباشر للنظام على Root"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:16
+msgid "Manually save filesystem changes in %s file for persistent root."
+msgstr ""
+" حفظ التغييرات في نظام الملفات يدويًا في %s file للتثبيت المباشر للنظام على "
+"Root"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:17
+msgid "You%s MUST%s run a program like this to save your filesystem changes."
+msgstr "يجب %s MUST%s تشغيل برنامج مثل هذا  لحفظ التغييرات في نظام الملفاتكم "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:56
+msgid "Checking for existing files and"
+msgstr "التحقق من وجود الملفات الموجودة و"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:57
+msgid "Checking if there is enough room ..."
+msgstr "التحقق ما إذا كان هناك مساحة كافية"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:88
+msgid "persist device"
+msgstr "جهاز مستمر"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:89
+msgid "mounted at"
+msgstr "موْصول في"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:102
+msgid "Available space, %s, is smaller than the margin of %s."
+msgstr "المساحة المتوفرة,%s, أصغر من هامش %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:106
+msgid "Insufficient space.  Have: %s. Need: %s."
+msgstr "المساحة غير كافية. المساحة المتوفرة: %s  المساحة المحتاج إليها: %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:109
+msgid "Ready to sync file system changes"
+msgstr "جاهز لمزامنة التغييرات في نظام الملفات"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:113
+msgid "Shall we begin?"
+msgstr "هل تريد أن نبدأ؟"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:116
+msgid "Performing rsync ... please be patient"
+msgstr "المزامنة عبر المنفذ الرجاء الانتظار ..."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:145
+msgid "%s The rsync command failed Failed! %s"
+msgstr "%s فشلت المزامنة! %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:147
+msgid "It returned an exit code of %s"
+msgstr "تعليمة البرمجية للخروج %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:148
+msgid "See the rsync man page to look up its meaning."
+msgstr "راجع صفحة دليل للبحث عن معناها"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:154
+msgid "%s succeeded"
+msgstr " %s نجحت"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:156
+msgid "    Your changes were saved in:"
+msgstr "تم حفظ التغييرات التي قمت بها في:"

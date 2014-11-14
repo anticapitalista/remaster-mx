@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Translators:
+# Roberto Saravia <jratlsv2@racsa.co.cr>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:15+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/projects/p/antix-"
+"development/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:13
+msgid "antiX Save Persistent Root"
+msgstr "Guardar la sesión de Root persistente en antiX "
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:16
+msgid "Manually save filesystem changes in %s file for persistent root."
+msgstr ""
+"Guardar manualmente los cambios al sistema de archivos en el archivo %s para "
+"la sesión root persistente."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:17
+msgid "You%s MUST%s run a program like this to save your filesystem changes."
+msgstr ""
+"Ud. %s DEBE %s ejecutar un programa como este para guardar los cambios en su "
+"sistema de archivos."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:56
+msgid "Checking for existing files and"
+msgstr "Revisando los archivos existentes y"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:57
+msgid "Checking if there is enough room ..."
+msgstr "revisando si se cuenta con suficiente espacio ..."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:88
+msgid "persist device"
+msgstr "unidad persistente"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:89
+msgid "mounted at"
+msgstr "montado en"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:102
+msgid "Available space, %s, is smaller than the margin of %s."
+msgstr "Espacio disponible, %s, es menor que el margen de %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:106
+msgid "Insufficient space.  Have: %s. Need: %s."
+msgstr "Espacio insuficiente.  Posee: %s.  Necesita: %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:109
+msgid "Ready to sync file system changes"
+msgstr "Listo para sincronizar los cambios en el sistema de archivos"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:113
+msgid "Shall we begin?"
+msgstr "¿Empezamos?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:116
+msgid "Performing rsync ... please be patient"
+msgstr "Ejecutando rsync ... sea paciente, por favor."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:145
+msgid "%s The rsync command failed Failed! %s"
+msgstr "%s El comando rsync falló.  ¡Acción fallida! %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:147
+msgid "It returned an exit code of %s"
+msgstr "Se reportó un código de salida de %s"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:148
+msgid "See the rsync man page to look up its meaning."
+msgstr ""
+"Vea la página del manual (man) de rsync para indagar sobre su significado."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:154
+msgid "%s succeeded"
+msgstr "%s funcionó"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/persist-save:156
+msgid "    Your changes were saved in:"
+msgstr "Sus cambios se guardaron en:"

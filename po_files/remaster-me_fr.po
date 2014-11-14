@@ -1,0 +1,222 @@
+#
+# Translators:
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012
+# sombreros <sebastiendebierre@gmail.com>, 2012
+msgid ""
+msgstr ""
+"Project-Id-Version: antix-development\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-31 19:01-0700\n"
+"PO-Revision-Date: 2014-11-14 18:26+0200\n"
+"Last-Translator: anticapitalista <antiX@operamail.com>\n"
+"Language-Team: French (http://www.transifex.com/projects/p/antix-development/"
+"language/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Launchpad-Export-Date: 2012-04-23 18:53+0000\n"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:23
+msgid ""
+"Create a new compressed file system saving all of the changes you have made "
+"to the system."
+msgstr ""
+"Créer un nouveau système de fichiers compressé enregistrant toutes les "
+"modifications que vous avez apportées au système."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:24
+msgid "Optionally save changes in your home directory."
+msgstr "En option enregistrer les changements de votre répertoire personnel."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:30
+msgid "Extra options for"
+msgstr "Des options supplémentaires pour"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:31
+msgid "Make a smaller linuxfs.new.  NOT deleted when done."
+msgstr ""
+"Faire une plus petite linuxfs.new. NE PAS supprimés lorsque vous avez "
+"terminé."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:32
+msgid "Use %s instead of prompting user for title."
+msgstr "Utilisez %s au lieu de guidage de l'utilisateur pour le titre."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:33
+msgid "Do not alter the %s file."
+msgstr "Ne pas modifier le fichier %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:34
+msgid "Make a general-purpose remaster."
+msgstr "Faire une remasterisation polyvalente."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:35
+msgid "Make a personalized remaster."
+msgstr "Faire une remasterisation personnalisée."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:36
+msgid "Save files under the %s directory."
+msgstr "Enregistrer les fichiers dans le répertoire %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:37
+msgid "Don't save files under the %s directory."
+msgstr "Ne pas enregistrer les fichiers sous le répertoire %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:72
+msgid "Do you want to save files under %s in the new remaster?"
+msgstr ""
+"Voulez-vous enregistrer des fichiers sous %s dans la nouvelle "
+"remasterisation?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:80
+msgid "Checking for existing files and"
+msgstr "Vérification des fichiers existants et"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:81
+msgid "Checking if there is enough room ..."
+msgstr "Vérifie si il ya assez de place ..."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:132
+msgid "Have: %s megs available.  Need: %s."
+msgstr "Vous avez: %s Mo disponibles. Besoin de: %s."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:136
+msgid "Leftover files found"
+msgstr "Restes de fichiers trouvés"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:138
+msgid "The following file(s) already exist"
+msgstr "Les fichiers suivant(s) existent déjà"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:139
+msgid "in the %s directory:"
+msgstr "dans le répertoire %s:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:143
+msgid "They may be left over from a previous remastering."
+msgstr "Ils ont put être laissés d'une remasterisation précédente."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:144
+msgid "Do you want to fix this problem now?"
+msgstr "Voulez-vous résoudre ce problème maintenant?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:145
+msgid "(the alternative is to quit now)"
+msgstr "(l'alternative est de quitter maintenant)"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:159
+msgid "Ready to create a new linuxfs file"
+msgstr "Prêt à créer un nouveau fichier linuxfs"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:163
+msgid "Shall we begin?"
+msgstr "Allons-nous commencer?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:165
+msgid "General"
+msgstr "Général"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:166
+msgid "Personal"
+msgstr "Personnel"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:171
+msgid "%s uses your current language settings."
+msgstr "%s utilise les paramètres de votre langue actuelle."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:172
+msgid "%s does not."
+msgstr "%s n'existe pas."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:186
+msgid "Remaster Version Identification"
+msgstr "Remasterisation Identification d'une version"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:188
+msgid "Please enter an (optional) title for this remaster"
+msgstr "S'il vous plaît entrez un titre (optionnel) pour cette remasterisation"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:215
+msgid "Remaster in progress"
+msgstr "Remasterisation en cours"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:217
+msgid "please be patient"
+msgstr "S'il vous plaît soyez patient"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:218
+msgid "(even after it says it is 100% done)"
+msgstr "(même après qu'il dit qu'il est 100% fait)"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:223
+msgid "antiX Remaster in Progress"
+msgstr "antiX Remasterisation en cours"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:267
+msgid "Remastering -- DO NOT CLOSE"
+msgstr "Remastérisation - NE PAS FERMER"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:282
+msgid "Remaster in Progress"
+msgstr "Remasterisation en cours"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:283
+msgid "Do you REALLY want to stop midway?"
+msgstr "Souhaitez-vous vraiment arrêter à mi-chemin?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:309
+msgid "Error"
+msgstr "Erreur"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:314
+msgid "Do you want to save the incomplete file?"
+msgstr "Voulez vous sauvegarder le fichier incomplet?"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:321
+msgid "Remastering Terminated Early"
+msgstr "Remastérisation terminé de façon anticipée"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:326
+msgid "Remastering Failed"
+msgstr "La remastérisation a échoué"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:328
+msgid "New linuxfs file was not created!"
+msgstr "Le nouveau fichier linuxfs n'a pas été créé!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:332
+msgid "Could not mount new file as %s!"
+msgstr "Impossible de monter le nouveau fichier %s!"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:344
+msgid "Created new compressed filesystem file:"
+msgstr "Création de nouveaux système de fichiers compressé du fichier:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:347
+msgid "size: %s Meg"
+msgstr "taille: %s Mo"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:349
+msgid "The new file should be used automatically the next time you boot."
+msgstr ""
+"Le nouveau fichier devrait être utilisé automatiquement la prochaine fois "
+"que vous démarrez."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:351
+msgid "If there is a problem with the new system:"
+msgstr "S'il ya un problème avec le nouveau système:"
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:352
+msgid "Use the %s  boot option to return to the current system."
+msgstr "Utilisez l'option de démarrage %s pour revenir au système actuel."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:354
+msgid "You should now create a rootfs.new file."
+msgstr "Vous devez maintenant créer un nouveau fichier rootfs."
+
+#: /home/jbowlin/Projects/LiveUSB/v3/Test-1/xtra/usr/local/bin/remaster-me:355
+msgid "Use the Set up live persistence application."
+msgstr "Utilisez l'application Configurer la persistance en direct."
