@@ -1,0 +1,20 @@
+remaster-mx (0.1.2) unstable; urgency=low 
+ 
+  * Added more feedback to persist-config.
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 07 Mar 2014 18:45:00 +0200
+
+
+remaster-mx (0.1.1) unstable; urgency=low 
+ 
+  * Added persist-config to remastercc.sh.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 09 February 2014 16:40:00 +0200
+
+
+remaster-mx (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Sun, 02 February 2014 14:30:00 +0200
+
